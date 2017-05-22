@@ -7,7 +7,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>PDO & CRUD</title>
+    <title>การใช้งาน PDO เบื้องต้น</title>
   </head>
   <body>
 
